@@ -1,0 +1,14 @@
+level1-2
+include <iostream>
+using namespace std;
+int main() {
+    int a;
+    int b;
+    cin>>a;
+    cin>>b;
+    cout<<"cem: "<<a+b<<endl;
+    cout<<"ferq: "<<a-b<<endl;
+    cout<<"hasil: "<<a*b<<endl;
+    cout<<"bölme: "<<a/b<<endl;
+    return 0;
+}
