@@ -1,0 +1,11 @@
+level1-3
+#include <iostream>
+using namespace std;
+int main() {
+    int x;
+    cout<<"Ededi daxil edin: ";
+    cin>>x;
+    cout<<"Kvadratı: "<<x*x<<endl;
+    cout<<"Kubu: "<<x*x*x<<endl;
+    return 0;
+}
